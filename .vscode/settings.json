@@ -1,0 +1,32 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/jokwangjo/ros2_ws/build/turtlebot3_teleop",
+        "/home/jokwangjo/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/jokwangjo/ros2_ws/build/turtlebot3_example",
+        "/home/jokwangjo/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/jokwangjo/ros2_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/jokwangjo/ros2_ws/install/t3_action_msg/local/lib/python3.10/dist-packages",
+        "/home/jokwangjo/ros2_ws/build/services_pkg",
+        "/home/jokwangjo/ros2_ws/install/services_pkg/lib/python3.10/site-packages",
+        "/home/jokwangjo/ros2_ws/build/my_package",
+        "/home/jokwangjo/ros2_ws/install/my_package/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jokwangjo/ros2_ws/build/turtlebot3_teleop",
+        "/home/jokwangjo/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/jokwangjo/ros2_ws/build/turtlebot3_example",
+        "/home/jokwangjo/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/jokwangjo/ros2_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/jokwangjo/ros2_ws/install/t3_action_msg/local/lib/python3.10/dist-packages",
+        "/home/jokwangjo/ros2_ws/build/services_pkg",
+        "/home/jokwangjo/ros2_ws/install/services_pkg/lib/python3.10/site-packages",
+        "/home/jokwangjo/ros2_ws/build/my_package",
+        "/home/jokwangjo/ros2_ws/install/my_package/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/jokwangjo/ros2_ws/src/t3/t3_action_msg"
+}
